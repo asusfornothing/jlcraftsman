@@ -17,7 +17,7 @@ body {
 }
 
 .container {
-    max-width: 800px;
+    max-width: 675px;
     margin: 4rem auto;
     visibility: hidden;
 }
@@ -75,7 +75,7 @@ h1 {
     text-decoration: none;
     margin: 1rem 0;
     font-weight: 500;
-    width: 144px;
+    width: 155px;
     cursor: pointer;
     transition: background 0.3s ease-in-out;
 
